@@ -1,3 +1,6 @@
+les pido Alos que deseen que siga mejorando este proyecto si me pueden ayudar donándome se los agradecería prometo ir entregando mejoras al los que me colaboren así puedo dedicarme un poco mas al proyecto sin perjudicar mi vida laboral 
+gracias 
+
 hola a todos codigo actual
 implementare política social y comercio tus decisiones en batalla tendrán efectos tu compra de recurso tendrá efectos tus guerras tendrán efectos en zonas y tus aldeas y vecinos etc. 
 100% traducido al español
