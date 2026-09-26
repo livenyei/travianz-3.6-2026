@@ -1,5 +1,4 @@
-les pido Alos que deseen que siga mejorando este proyecto si me pueden ayudar donándome se los agradecería prometo ir entregando mejoras al los que me colaboren así puedo dedicarme un poco mas al proyecto sin perjudicar mi vida laboral 
-gracias 
+26-09-26  acabo de implementar ia para que usen diplomacia y creado un sistema de bot para partidas mas complejas uno comerciante uno geurrero y uno contructor todos con maxima agresividad estos son capaces de interactuar entre si desde atcar en conjunto defenderce crear alianzas sistemas de pactos etc ... trabajando aun en social
 
 hola a todos codigo actual
 implementare política social y comercio tus decisiones en batalla tendrán efectos tu compra de recurso tendrá efectos tus guerras tendrán efectos en zonas y tus aldeas y vecinos etc. 
