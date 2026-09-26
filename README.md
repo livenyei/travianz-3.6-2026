@@ -1,4 +1,5 @@
 hola a todos codigo actual
+implementare política social y comercio tus decisiones en batalla tendrán efectos tu compra de recurso tendrá efectos tus guerras tendrán efectos en zonas y tus aldeas y vecinos etc. 
 100% traducido al español
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/594b2836-21ea-4445-86ff-be424e76de6f" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1adcb2d5-69b9-4591-8518-b2aec9f8520f" />
