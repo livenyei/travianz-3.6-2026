@@ -1,6 +1,7 @@
 hola a todos codigo actual
 100% traducido al español
-<img width="411" height="281" alt="Sin título" src="https://github.com/user-attachments/assets/9d9c20aa-a9d5-4a23-88be-105d865e40a8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/594b2836-21ea-4445-86ff-be424e76de6f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1adcb2d5-69b9-4591-8518-b2aec9f8520f" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b33e19d8-c222-4d53-93c5-9face9be4e81" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5856db57-671e-4517-8ee8-caa07be424cb" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/71275ff7-f64e-4c04-b4e1-3b41be0b853c" />
