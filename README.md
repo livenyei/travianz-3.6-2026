@@ -1,3 +1,6 @@
+hola a todos codigo actual
+100% traducido al español
+<img width="411" height="281" alt="Sin título" src="https://github.com/user-attachments/assets/9d9c20aa-a9d5-4a23-88be-105d865e40a8" />
 
 TravianZ is an open-source browser strategy game inspired by classic Travian-like gameplay.
 
